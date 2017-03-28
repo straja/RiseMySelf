@@ -1,0 +1,11 @@
+#search-table tr > th:nth-child(2) {
+	padding-left: 20px;
+}
+
+#search-table tr > td:nth-child(2) {
+	padding-left: 20px;
+}
+
+.feedbackTitle {
+	cursor: pointer;
+}
